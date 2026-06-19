@@ -1,1 +1,1 @@
-{"installCommand":"npm install --legacy-peer-deps","buildCommand":"npx vite build"}
+{"installCommand":"npm install --legacy-peer-deps"}
